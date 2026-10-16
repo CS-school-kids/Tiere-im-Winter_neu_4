@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datenschutzerklärung</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Datenschutzerklärung</h1>
+
+<p>
+Diese Website dient der Bereitstellung von Unterrichtsmaterialien und Informationen.
+</p>
+
+<h2>Hosting</h2>
+
+<p>
+Diese Website wird über GitHub Pages bereitgestellt. Beim Aufruf der Website werden durch GitHub technische Informationen wie IP-Adresse, Datum und Uhrzeit des Zugriffs verarbeitet, um den Betrieb der Website zu ermöglichen.
+</p>
+
+<h2>Keine Datenerhebung durch den Betreiber</h2>
+
+<p>
+Der Betreiber dieser Website erhebt, speichert oder verarbeitet keine personenbezogenen Daten. Diese Website verwendet keine Kontaktformulare, keine Analysewerkzeuge und keine Cookies.
+</p>
+
+<h2>Externe Inhalte</h2>
+
+<p>
+Sofern auf dieser Website Links zu externen Webseiten enthalten sind, gilt die Datenschutzerklärung der jeweiligen Anbieter.
+</p>
+
+<h2>Verantwortliche Person</h2>
+
+<p>
+Christian Steffmann<br>
+Straße Hausnummer<br>
+PLZ Ort
+</p>
+
+<p>
+E-Mail: deine-mailadresse@example.de
+</p>
+
+<p>
+index.htmlZurück zur Startseite</a>
+</p>
+
+</body>
+</html>
